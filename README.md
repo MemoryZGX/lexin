@@ -2,11 +2,14 @@
 
 
 
-![](https://antzyun.oss-cn-beijing.aliyuncs.com/20201025174629.png)
 
 
-> 我不歧视女性，也不歧视胖子，但你，是个女胖子。
 
+> 学编程找星哥：Wechat/QQ：574373426
+
+> 学编程找星哥：Wechat/QQ：574373426
+
+> 学编程找星哥：Wechat/QQ：574373426
 
 
 > 使用方式：secrets中添加USERNAME用户名，PASSWORD密码，STEP目标步数
@@ -79,12 +82,7 @@ jobs:
 
 然后在Action中点击run即可，每日默认六点十分会自动执行。
 
-如下可以看到步数修改成功。
 
-![image.png](https://www.aloli.icu/upload/2020/10/image-c7d13b90e46d4b7497b9ea1519661f90.png)
-
-
-![image.png](https://www.aloli.icu/upload/2020/10/image-3a70c1d574784f84a36ca90eeaf95b30.png)
 
 实现可以参考仓库内代码，只是一个简单的模拟登录，以及数据提交，此外就是GitHub Action。
 
@@ -107,6 +105,3 @@ headers = {'Content-Type': 'application/json; charset=utf-8', 'Cookie': 'accessT
 
 既然步数这么高了，那么某种意义上大脑就会觉得自己锻炼了，如果这还不瘦就太没天理了。
 
-扫码关注公众号～
-
-![](https://antzyun.oss-cn-beijing.aliyuncs.com/20201025175233.png)
